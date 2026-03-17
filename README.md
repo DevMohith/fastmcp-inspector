@@ -46,7 +46,7 @@ uv pip install -e .
 
 ```bash
 uv run main.py
-```
+```.
 
 #### Option 2: Setup without uv
 
